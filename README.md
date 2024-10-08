@@ -1,8 +1,5 @@
-Here's a concise README for your GitHub repository based on your project:
 
----
-
-# Used Car Marketplace App
+# AutoFinder
 
 **AutoFinder** app allows users to view, search, and manage car listings. It features seller functionalities for adding and managing car listings, and buyer features for browsing, searching, and viewing detailed information about cars. Built with **React Native**, **Expo**, and **Appwrite**, the app provides a seamless experience for both sellers and buyers.
 
